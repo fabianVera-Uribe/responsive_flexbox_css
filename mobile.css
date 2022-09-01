@@ -1,0 +1,16 @@
+body {
+  background-position: left center;
+}
+
+.contenedor {
+  flex-direction: column;
+  align-items: center;
+}
+
+.contenedor__mensaje {
+  width: 90%;
+}
+
+.form {
+  width: 90%;
+}
