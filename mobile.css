@@ -1,16 +1,12 @@
 body {
   background-position: left center;
 }
-
 .contenedor {
   flex-direction: column;
-  align-items: center;
 }
 
-.contenedor__mensaje {
-  width: 90%;
-}
-
+.contenedor__mensaje,
 .form {
   width: 90%;
+  margin: 0 auto;
 }
